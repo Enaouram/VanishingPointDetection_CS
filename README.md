@@ -11,6 +11,7 @@ Ce dépôt contient le développement et l'exploration de plusieurs algorithmes 
   - **Méthode basée sur les équations des lignes** : Utilise les équations mathématiques des lignes détectées dans l'image pour calculer les intersections suggérant des points de fuite potentiels.
   - **Approche de Clustering** : Se concentre sur le regroupement des points d'intérêt qui pourraient indiquer la convergence des lignes vers le point de fuite. Ce carnet inclut une analyse détaillée et des comparaisons avec le VNP de vérité terrain fourni par le dataset.
 - **VNP_SEG.ipynb** : Dédié à des scénarios d'image plus complexes, ce carnet explore les approches de segmentation, l'optimisation de LineSet et l'algorithme de détecteur de segments de ligne (LSD).
+- **Vp_detection_RANSAC_Algorithm.ipynb** : Notebook Appliquant l'algorithme de RANSAC optimisé pour des scénarios d'images complexes et bruitées.
 - **Reconstruction_Scene_3D.ipynb** : Explore les techniques de création de scènes 3D à partir de points de fuite dérivés des analyses d'image, offrant une profondeur géométrique à la compréhension des images.
 
 ### Road_Annotated_Dataset
