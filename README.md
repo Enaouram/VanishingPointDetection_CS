@@ -28,3 +28,15 @@ Pour démarrer avec ce projet :
 1. Clonez le dépôt.
 2. Assurez-vous d'avoir [Python](https://www.python.org/) installé, ainsi que des bibliothèques telles que [OpenCV](https://opencv.org/), [NumPy](https://numpy.org/), et [Matplotlib](https://matplotlib.org/).
 3. Naviguez vers le répertoire `Notebooks` et lancez les carnets Jupyter pour voir les algorithmes en action.
+
+
+## Références
+
+1. Enrico Calleris, "Vanishing Point Detection," Medium, [Link](https://medium.com/@calleris.enrico/vanishing-point-detection-14250afa24d3).
+2. Scientific Reports, Nature, 2023, [Link](https://www.nature.com/articles/s41598-023-30152-7).
+3. IET Digital Library, "Journal Article on Vanishing Point Detection," IET Research Journals, [Link](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-cvi.2014.0187).
+4. Ray Ryeng, "XiaohuLuVPDetection," GitHub Repository, [Link](https://github.com/rayryeng/XiaohuLuVPDetection).
+5. IEEE Xplore, "Document Detail," IEEE, [Link](https://ieeexplore.ieee.org/document/10006943).
+6. PyPI, "lu-vp-detect," Python Package Index, [Link](https://pypi.org/project/lu-vp-detect/).
+7. IOPscience, "Journal of Physics: Conference Series," IOP Publishing, [Link](https://iopscience.iop.org/article/10.1088/1742-6596/1748/3/032052/pdf).
+
